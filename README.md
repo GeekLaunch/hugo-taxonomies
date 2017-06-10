@@ -4,5 +4,5 @@ How to use taxonomies to organize your Hugo website by categorizing or tagging p
 
 Uses the Icarus theme: https://github.com/digitalcraftsman/hugo-icarus-theme
 
-(Video Guide)[https://youtu.be/-np9GX6cL38]
+[Video Guide](https://youtu.be/-np9GX6cL38)
 
